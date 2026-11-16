@@ -1,0 +1,9 @@
+G:\Code\C-nodl\YTL-CSharp\bin\Debug\netstandard2.1\YTL-CSharp.deps.json
+G:\Code\C-nodl\YTL-CSharp\bin\Debug\netstandard2.1\YTL-CSharp.dll
+G:\Code\C-nodl\YTL-CSharp\bin\Debug\netstandard2.1\YTL-CSharp.pdb
+G:\Code\C-nodl\YTL-CSharp\obj\Debug\netstandard2.1\YTL-CSharp.GeneratedMSBuildEditorConfig.editorconfig
+G:\Code\C-nodl\YTL-CSharp\obj\Debug\netstandard2.1\YTL-CSharp.AssemblyInfoInputs.cache
+G:\Code\C-nodl\YTL-CSharp\obj\Debug\netstandard2.1\YTL-CSharp.AssemblyInfo.cs
+G:\Code\C-nodl\YTL-CSharp\obj\Debug\netstandard2.1\YTL-CSharp.csproj.CoreCompileInputs.cache
+G:\Code\C-nodl\YTL-CSharp\obj\Debug\netstandard2.1\YTL-CSharp.dll
+G:\Code\C-nodl\YTL-CSharp\obj\Debug\netstandard2.1\YTL-CSharp.pdb
